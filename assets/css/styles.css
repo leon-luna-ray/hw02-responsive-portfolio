@@ -7,6 +7,10 @@ strong {
     color:rgb(165, 179, 201);    
 }
 
+main h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
 .container-main {
     width: 90%;
     padding: 1.5em;
